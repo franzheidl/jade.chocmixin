@@ -1,5 +1,5 @@
 {
-  "name": "Jade",
+  "name": "jade.chocmixin",
   "version": "0.0.1",
   "description": "Compile Jade in Chocolat.",
   "main": "init.js",
