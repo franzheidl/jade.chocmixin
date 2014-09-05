@@ -1,6 +1,6 @@
 {
   "name": "jade.chocmixin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Compile Jade in Chocolat.",
   "main": "init.js",
   "repository": {
