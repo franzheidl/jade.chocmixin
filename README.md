@@ -4,6 +4,8 @@ Compile [Jade](http://jade-lang.com) to Html in [Chocolat](http://www.chocolatap
 
 Use `Actions/Install Mixins…` to install.
 
+Also install the Jade truffle (`--> Actions/Install Extras`) if you haven't yet, to get this mixin to work and understand a document's Jade root scope.
+
 
 
 ###The MIT License (MIT)
