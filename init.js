@@ -23,10 +23,10 @@ function run() {
         
         r.replaceTextInRange(range, html, true);
         
-      })
+      });
       
     } else {
-      Alert.show('Jade Error', 'Document does not appear to be a .jade file.')
+      Alert.show('Jade Error', 'Document does not appear to be a .jade file. Have you installed the Jade truffle for Chocolat ("Actions/Install Extras…")?');
     }
   }
 }
